@@ -332,7 +332,7 @@
     margin-left: 30px;
 }
 
-
+/***
 /*** Testimonial ***/
 .testimonial-left,
 .testimonial-right {
@@ -427,4 +427,4 @@
 
 .testimonial-carousel .owl-dot.active::after {
     background: var(--primary);
-}
+} ***/
